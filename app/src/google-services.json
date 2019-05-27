@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "50506922254",
+    "firebase_url": "https://arduinoproject-c06df.firebaseio.com",
+    "project_id": "arduinoproject-c06df",
+    "storage_bucket": "arduinoproject-c06df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50506922254:android:3d08875ee66c9317",
+        "android_client_info": {
+          "package_name": "com.abhinay.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50506922254-8ufvksm91qvsu7c4tntl0qoe3f1i01sh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfX_WO7aZ9Wi542jYlknAhXpv_US2Hrkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50506922254-8ufvksm91qvsu7c4tntl0qoe3f1i01sh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
